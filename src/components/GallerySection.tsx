@@ -21,14 +21,14 @@ export default function GallerySection() {
       description: 'インフラ設備の保守・施工作業'
     },
     {
-      src: '/image-04.jpg',
-      title: '大型クレーン作業',
-      description: '産業施設での大型クレーン作業'
+      src: '/image-04.jpeg',
+      title: 'プラント施設でのクレーン共同作業',
+      description: '複数台の大型クレーンによるプラント設備の施工現場'
     },
     {
-      src: '/image-05.jpg',
-      title: '冬季クレーン作業',
-      description: '雪の中での精密作業'
+      src: '/image-05.jpeg',
+      title: '300トン級オールテレーンクレーン',
+      description: '冬季対応の大型クレーン車 KA-3000R'
     },
     {
       src: '/image-06.jpg',
