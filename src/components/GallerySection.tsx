@@ -22,13 +22,13 @@ export default function GallerySection() {
     },
     {
       src: '/image-04.jpeg',
-      title: 'プラント施設でのクレーン共同作業',
-      description: '複数台の大型クレーンによるプラント設備の施工現場'
+      title: '複数台クレーンによる共同作業',
+      description: '大型クレーンを複数台投入した現場作業の様子'
     },
     {
       src: '/image-05.jpeg',
-      title: '300トン級オールテレーンクレーン',
-      description: '冬季対応の大型クレーン車 KA-3000R'
+      title: '大型クレーン車',
+      description: '冬季の現場に備える大型クレーン車'
     },
     {
       src: '/image-06.jpg',
